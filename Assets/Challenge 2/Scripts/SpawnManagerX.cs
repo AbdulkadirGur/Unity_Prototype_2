@@ -31,6 +31,6 @@ public class SpawnManagerX : MonoBehaviour
     }
     float randomNum()
     {
-        return Random.Range(1, 3);
+        return Random.Range(3, 6);
     }
 }
